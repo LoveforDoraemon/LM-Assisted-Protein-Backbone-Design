@@ -1,6 +1,6 @@
 # Protein Backbone Design Using Diffusion Models
 
-Graduation research in SJTU
+Graduation research for Bachelor's Degree in SJTU
 
 ## Introduction
 
